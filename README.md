@@ -1,7 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/anshulmeshram05/anshulmeshram05/assets/101732642/7cb87e0a-5320-4376-ac38-c973aaac5392)
-">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4c7f4a26db5f238f77c0cb5636248b4d9bb8386a60068ec1711be3d13349de0f/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulmeshram05&label=Profile%20views&color=0e75b6&style=flat" alt="anshulmeshram05" /> </p>
 <p align="left"> <a href="https://twitter.com/anshul meshram" target="blank"><img src="https://img.shields.io/twitter/follow/anshul meshram?logo=twitter&style=for-the-badge" alt="anshul meshram" /></a> </p>
